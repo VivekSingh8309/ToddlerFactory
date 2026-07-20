@@ -1,0 +1,9 @@
+# Default stack — all free/local, no paid API key required
+requests>=2.31.0
+faster-whisper>=1.0.0
+piper-tts>=1.2.0
+moviepy==1.0.3
+imageio-ffmpeg
+
+# Optional — only needed if you switch any BACKENDS entry to "openai"
+# openai>=1.30.0

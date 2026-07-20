@@ -1,0 +1,77 @@
+[
+  {
+    "word": " It's",
+    "start": 0.0,
+    "end": 0.34
+  },
+  {
+    "word": " sunny",
+    "start": 0.34,
+    "end": 0.56
+  },
+  {
+    "word": " and",
+    "start": 0.56,
+    "end": 0.78
+  },
+  {
+    "word": " bright",
+    "start": 0.78,
+    "end": 1.08
+  },
+  {
+    "word": " on",
+    "start": 1.08,
+    "end": 1.26
+  },
+  {
+    "word": " a",
+    "start": 1.26,
+    "end": 1.34
+  },
+  {
+    "word": " snowy",
+    "start": 1.34,
+    "end": 1.68
+  },
+  {
+    "word": " hill.",
+    "start": 1.68,
+    "end": 1.96
+  },
+  {
+    "word": " Lumi",
+    "start": 2.2,
+    "end": 2.4
+  },
+  {
+    "word": " is",
+    "start": 2.4,
+    "end": 2.64
+  },
+  {
+    "word": " playing",
+    "start": 2.64,
+    "end": 2.9
+  },
+  {
+    "word": " with",
+    "start": 2.9,
+    "end": 3.08
+  },
+  {
+    "word": " her",
+    "start": 3.08,
+    "end": 3.2
+  },
+  {
+    "word": " friend,",
+    "start": 3.2,
+    "end": 3.6
+  },
+  {
+    "word": " Pipsquik.",
+    "start": 3.8,
+    "end": 4.34
+  }
+]

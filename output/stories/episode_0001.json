@@ -1,0 +1,43 @@
+{
+  "title": "Tiny Hands, Big Hearts! Counting Numbers",
+  "character": "Lumi the Bird",
+  "theme": "Counting Numbers",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "narration": "It's sunny and bright on a snowy hill. Lumi is playing with her friend, Pipsqueak.",
+      "image_prompt": "A cheerful, fluffy yellow bird perched on top of a snowy mountain."
+    },
+    {
+      "scene_number": 2,
+      "narration": "Pipsqueak has some cookies and milk for snacks. Lumi wants to share. Let's clap together!",
+      "image_prompt": "Lumi and Pipsqueak are sitting side by side, sharing a plate of food with big smiles."
+    },
+    {
+      "scene_number": 3,
+      "narration": "Counting numbers: 1 cookie, 2 cookies! See how many cookies you can count together.",
+      "image_prompt": "A close-up of the two birds counting on their fingers and counting out loud."
+    },
+    {
+      "scene_number": 4,
+      "narration": "Pipsqueak counts to three. Lumi counts to four, showing more than Pipsqueak could do.",
+      "image_prompt": "Lumi and Pipsqueak count on their fingers while holding hands, making a fun counting game."
+    },
+    {
+      "scene_number": 5,
+      "narration": "Pipsqueak tries harder. He counts to five more times than before.",
+      "image_prompt": "A close-up of Pipsqueak and Lumi sitting on the snowy hill together, both trying different ways to count."
+    },
+    {
+      "scene_number": 6,
+      "narration": "Lumi thanks Pipsqueak for sharing his cookies. It's time to fly away.",
+      "image_prompt": "Pipsqueak and Lumi are flying on their tiny wings, with a warm goodbye in the air."
+    }
+  ],
+  "_combo": {
+    "character": "lumi",
+    "location": "a gentle snowy hill",
+    "activity": "sharing a snack with a friend",
+    "theme": "counting numbers"
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "word": " counting",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": " numbers,",
+    "start": 0.24,
+    "end": 0.62
+  },
+  {
+    "word": " one",
+    "start": 0.96,
+    "end": 1.28
+  },
+  {
+    "word": " cookie,",
+    "start": 1.28,
+    "end": 1.58
+  },
+  {
+    "word": " two",
+    "start": 1.92,
+    "end": 2.08
+  },
+  {
+    "word": " cookies,",
+    "start": 2.08,
+    "end": 2.4
+  },
+  {
+    "word": " see",
+    "start": 2.74,
+    "end": 2.96
+  },
+  {
+    "word": " how",
+    "start": 2.96,
+    "end": 3.14
+  },
+  {
+    "word": " many",
+    "start": 3.14,
+    "end": 3.34
+  },
+  {
+    "word": " cookies",
+    "start": 3.34,
+    "end": 3.66
+  },
+  {
+    "word": " you",
+    "start": 3.66,
+    "end": 3.98
+  },
+  {
+    "word": " can",
+    "start": 3.98,
+    "end": 4.12
+  },
+  {
+    "word": " count",
+    "start": 4.12,
+    "end": 4.34
+  },
+  {
+    "word": " together.",
+    "start": 4.34,
+    "end": 4.68
+  }
+]
